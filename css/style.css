@@ -49,4 +49,10 @@ body{
     line-height: 20px;
     text-decoration: none;
     color: #fff;
+}
+.main {
+    max-width: 1280px;
+    margin: auto;
+    padding-top: 54px;
+    
 } 
